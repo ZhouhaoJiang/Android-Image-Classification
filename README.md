@@ -1,5 +1,6 @@
+# 项目截图
+![751700727056_ pic](https://github.com/1264204425/Android-Image-Classification/assets/79627742/4406f296-316d-4539-a24f-6e429d1cfa7d)
 # Paddle-Lite-Demo
-
 Paddle-Lite 提供了多个应用场景的 demo，并支持 Android、iOS 和 ArmLinux 三个平台：
 * 图像分类
     * 基于 [mobilenet_v1](https://paddlelite-demo.bj.bcebos.com/models/mobilenet_v1_fp32_224.tar.gz) 模型
